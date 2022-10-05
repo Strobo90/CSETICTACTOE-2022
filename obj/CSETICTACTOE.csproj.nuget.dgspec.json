@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\strob\\Desktop\\CSETICTACTOE\\Csharp.csproj": {}
+    "C:\\Users\\strob\\Desktop\\CSETICTACTOE\\CSETICTACTOE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\strob\\Desktop\\CSETICTACTOE\\Csharp.csproj": {
+    "C:\\Users\\strob\\Desktop\\CSETICTACTOE\\CSETICTACTOE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\strob\\Desktop\\CSETICTACTOE\\Csharp.csproj",
-        "projectName": "Csharp",
-        "projectPath": "C:\\Users\\strob\\Desktop\\CSETICTACTOE\\Csharp.csproj",
+        "projectUniqueName": "C:\\Users\\strob\\Desktop\\CSETICTACTOE\\CSETICTACTOE.csproj",
+        "projectName": "CSETICTACTOE",
+        "projectPath": "C:\\Users\\strob\\Desktop\\CSETICTACTOE\\CSETICTACTOE.csproj",
         "packagesPath": "C:\\Users\\strob\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\strob\\Desktop\\CSETICTACTOE\\obj\\",
         "projectStyle": "PackageReference",

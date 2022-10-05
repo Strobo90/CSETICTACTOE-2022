@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading;
 namespace TIC_TAC_TOE
-{   
+{
     class Program
     {
         //making array and
@@ -17,15 +17,15 @@ namespace TIC_TAC_TOE
             do
             {
                 Console.Clear();// whenever loop will be again start then screen will be clear
-                Console.WriteLine("Player1: X and Player2: O");
+                Console.WriteLine("Player1:X and Player2:O");
                 Console.WriteLine("\n");
                 if (player % 2 == 0)//checking the chance of the player
                 {
-                    Console.WriteLine("Player 2 its your chance to play");
+                    Console.WriteLine("Player 2 Chance");
                 }
                 else
                 {
-                    Console.WriteLine("Player 1 its your turn to play");
+                    Console.WriteLine("Player 1 Chance");
                 }
                 Console.WriteLine("\n");
                 Board();// calling the board Function

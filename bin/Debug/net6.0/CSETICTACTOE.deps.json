@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Csharp/1.0.0": {
+      "CSETICTACTOE/1.0.0": {
         "runtime": {
-          "Csharp.dll": {}
+          "CSETICTACTOE.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Csharp/1.0.0": {
+    "CSETICTACTOE/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

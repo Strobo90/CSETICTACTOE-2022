@@ -1,0 +1,15 @@
+C:\Users\strob\Desktop\CSETICTACTOE\bin\Debug\net6.0\CSETICTACTOE.exe
+C:\Users\strob\Desktop\CSETICTACTOE\bin\Debug\net6.0\CSETICTACTOE.deps.json
+C:\Users\strob\Desktop\CSETICTACTOE\bin\Debug\net6.0\CSETICTACTOE.runtimeconfig.json
+C:\Users\strob\Desktop\CSETICTACTOE\bin\Debug\net6.0\CSETICTACTOE.dll
+C:\Users\strob\Desktop\CSETICTACTOE\bin\Debug\net6.0\CSETICTACTOE.pdb
+C:\Users\strob\Desktop\CSETICTACTOE\obj\Debug\net6.0\CSETICTACTOE.csproj.AssemblyReference.cache
+C:\Users\strob\Desktop\CSETICTACTOE\obj\Debug\net6.0\CSETICTACTOE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strob\Desktop\CSETICTACTOE\obj\Debug\net6.0\CSETICTACTOE.AssemblyInfoInputs.cache
+C:\Users\strob\Desktop\CSETICTACTOE\obj\Debug\net6.0\CSETICTACTOE.AssemblyInfo.cs
+C:\Users\strob\Desktop\CSETICTACTOE\obj\Debug\net6.0\CSETICTACTOE.csproj.CoreCompileInputs.cache
+C:\Users\strob\Desktop\CSETICTACTOE\obj\Debug\net6.0\CSETICTACTOE.dll
+C:\Users\strob\Desktop\CSETICTACTOE\obj\Debug\net6.0\refint\CSETICTACTOE.dll
+C:\Users\strob\Desktop\CSETICTACTOE\obj\Debug\net6.0\CSETICTACTOE.pdb
+C:\Users\strob\Desktop\CSETICTACTOE\obj\Debug\net6.0\CSETICTACTOE.genruntimeconfig.cache
+C:\Users\strob\Desktop\CSETICTACTOE\obj\Debug\net6.0\ref\CSETICTACTOE.dll
